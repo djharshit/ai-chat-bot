@@ -1,0 +1,6 @@
+SpeechRecognition
+pywhatkit
+pyttsx3
+datetime
+wikipedia
+pyjokes
